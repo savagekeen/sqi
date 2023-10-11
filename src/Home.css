@@ -1,0 +1,19 @@
+.features{
+    padding: 50px 12%;
+    font-size: 12px;
+    background: black;
+    width: 100vh;
+    height: 100vh;
+}
+
+.row{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 50px 0;
+    color: yellow;
+}
+.text-row{
+    color: blue;
+}
